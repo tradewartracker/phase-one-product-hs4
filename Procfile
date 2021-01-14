@@ -1,1 +1,1 @@
-web: bokeh serve --port=$PORT --allow-websocket-origin=us-exports-hs2.herokuapp.com --address=0.0.0.0 --use-xheaders main-exports-hs2.py
+web: bokeh serve --port=$PORT --allow-websocket-origin=phase-one-product-hs4.herokuapp.com --address=0.0.0.0 --use-xheaders main-hs4.py
